@@ -1,34 +1,119 @@
- {
-  "name": "C3C FBState Utility",
-  "version": "1.3",
-  "description": "Import/export fbstate.json which can be used to let bot login.",
-  "permissions": [
-    "cookies",
-    "activeTab",
-    "https://*.facebook.com/"
-  ],
-  "background": {
-    "scripts": [
-      "background.js"
-    ],
-    "persistent": false
-  },
-  "browser_action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-      "16": "logo/16.png",
-      "32": "logo/32.png",
-      "48": "logo/48.png",
-      "64": "logo/64.png",
-      "128": "logo/128.png"
+ [
+    {
+        "key": "datr",
+        "value": "slONaOyNwuQpMYFglQd5O4Qt",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.439Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "sb",
+        "value": "slONaKd9qtZwqpHBZ4lVIjMu",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x895",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61570649200323",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "xs",
+        "value": "37%3AE7MBk39suQNCwg%3A2%3A1754092561%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "fr",
+        "value": "0qcMNWUJUuECI2jn1.AWfJMBiyj5XqFx7VGuRLeiWcWxYhwEeDkZeZd6OLRKOWOuVRxMk.BojVOy..AAA.0.0.BojVQg.AWeqzQyy5T-MiWrVT5wFF1SHWz4",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B785x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101527785%3BT%3A29234881",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2884%3Btimestamp%3A1754092905%3BCRCM%3A274652008",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-02T01:54:28.446Z",
+        "lastAccessed": "2025-08-02T01:54:28.446Z"
     }
-  },
-  "icons": {
-    "16": "logo/16.png",
-    "32": "logo/32.png",
-    "48": "logo/48.png",
-    "64": "logo/64.png",
-    "128": "logo/128.png"
-  },
-  "manifest_version": 2
- }
+]
